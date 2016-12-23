@@ -1,0 +1,22 @@
+{
+  "name": "testQueue",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^3.2.0",
+    "should": "^11.1.2"
+  },
+  "dependencies": {
+    "async": "^2.1.4",
+    "chai": "^3.5.0",
+    "expect": "^1.20.2",
+    "redis": "^2.6.3"
+  }
+}
